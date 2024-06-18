@@ -1,1 +1,6 @@
 print("baljeet fat")
+
+int foot = 8
+
+if(foot > 0){
+print("rot away")}
